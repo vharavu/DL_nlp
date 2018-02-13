@@ -4,6 +4,7 @@
 * A deep FC network
 * A wide FC network
 * A custom built CNN
+
 ####Will use Keras's IMDB move review database 
 
  
